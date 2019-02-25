@@ -35,4 +35,6 @@ added_date: {added_date}
 
 #### Notes/Questions
 
+- 
+
 [{short_title}]: {url}

@@ -1,4 +1,4 @@
-"""Code from https://gist.github.com/neighthan/e7d088ab752ece583ffc16178ac0d9b4"""
+"""Code adapted from https://gist.github.com/neighthan/e7d088ab752ece583ffc16178ac0d9b4"""
 import requests
 from datetime import datetime
 from raschietto import Raschietto, Matcher
