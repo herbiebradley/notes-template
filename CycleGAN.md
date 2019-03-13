@@ -32,7 +32,7 @@ GAN architecture for general image-to-image translation, using two generators an
 
 #### Key Points
 
-- The generator uses an architecture from [Johnson et al., 2016](https://arxiv.org/abs/1603.08155), with several downsampling layers followed by a number of residual blocks with skip connections, followed by several fractionally strided convolution layers to upsample.
+- The generator uses an architecture from [Johnson et al., 2016](https://arxiv.org/abs/1603.08155), consisting of several downsampling layers followed by a number of residual blocks with skip connections, followed by several fractionally strided convolution layers to upsample.
 
 
 #### Notes/Questions
