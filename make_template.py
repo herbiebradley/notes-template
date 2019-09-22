@@ -10,8 +10,8 @@ from typing import Dict
 
 def main() -> None:
     parser = ArgumentParser()
-    parser.add_argument("short_title", help="Short title for paper; used to name file.")
     parser.add_argument("url")
+    parser.add_argument("short_title", help="Short title for paper; used to name file.")
     parser.add_argument("-j", "--journal", help="Journal published in [default = arXiv if 'arxiv' in url else '']", default="")
     args = parser.parse_args()
 
